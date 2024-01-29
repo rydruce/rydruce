@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>WIP</b>
-  - [Github](https://github.com/rydruce)
+- <b>Home Lab</b>
+  - [Home Lab Main Page](https://github.com/rydruce/homelab)
+  - [Setting up Nessus Essentials](https://github.com/rydruce/homelab)
 
 <h2> 🤳 Connect with me:</h2>
 
