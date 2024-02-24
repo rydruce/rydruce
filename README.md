@@ -2,7 +2,7 @@
 
 <h2>🐍 Python Projects</h2>
 
-  - [Pretty YARA](https://github.com)
+  - [Pretty YARA](https://github.com/rydruce/pretty-yara)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
