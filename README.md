@@ -4,7 +4,7 @@
 
   - [Pretty YARA](https://github.com/rydruce/pretty-yara)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Home Lab</b>
   - [Home Lab Main Page](https://github.com/rydruce/homelab)
