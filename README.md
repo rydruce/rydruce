@@ -4,13 +4,9 @@
 
   - [Pretty YARA](https://github.com/rydruce/pretty-yara)
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>🪟 Powershell Projects</h2>
 
-- <b>Home Lab</b>
-  - [Home Lab Main Page](https://github.com/rydruce/homelab)
-  - [Setting up Nessus Essentials](https://github.com/rydruce/homelab)
-
-
+  -[yt-dlp GUI](https://github.com/rydruce/yt-dlp-GUI)
 
 <h2> 🌐 Connect with me</h2>
 
