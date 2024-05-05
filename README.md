@@ -6,7 +6,7 @@
 
 <h2>🪟 Powershell Projects</h2>
 
-  -[yt-dlp GUI](https://github.com/rydruce/yt-dlp-GUI)
+  - [yt-dlp GUI](https://github.com/rydruce/yt-dlp-GUI)
 
 <h2> 🌐 Connect with me</h2>
 
