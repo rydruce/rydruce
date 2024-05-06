@@ -2,11 +2,11 @@
 
 <h2>🐍 Python Projects</h2>
 
-  - [Pretty YARA](https://github.com/rydruce/pretty-yara)
+  - [Pretty YARA: An HTML Templater for Yara rules.](https://github.com/rydruce/pretty-yara)
 
 <h2>🪟 Powershell Projects</h2>
 
-  - [yt-dlp GUI](https://github.com/rydruce/yt-dlp-GUI)
+  - [Deft yt-dlp: A Wrapper for yt-dlp](https://github.com/rydruce/deft-yt-dlp)
 
 <h2> 🌐 Connect with me</h2>
 
